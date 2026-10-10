@@ -1,0 +1,32 @@
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets
+.env
+.env.*
+!.env.example
+.aws/
+*.pem
+*.key
+
+# Local data
+data/raw/
+data/processed/
+data/metadata/
+
+# RAG artifacts
+*.faiss
+*.index
+*.pkl
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
