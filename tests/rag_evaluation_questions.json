@@ -1,0 +1,43 @@
+
+[
+  {
+    "question": "What were Apple's main business risks in 2025?",
+    "tickers": ["AAPL"],
+    "fiscal_year": 2025
+  },
+  {
+    "question": "How did NVIDIA describe AI demand in 2025?",
+    "tickers": ["NVDA"],
+    "fiscal_year": 2025
+  },
+  {
+    "question": "What drove Microsoft's cloud growth in 2024?",
+    "tickers": ["MSFT"],
+    "fiscal_year": 2024
+  },
+  {
+    "question": "What were Amazon's main operating risks in 2023?",
+    "tickers": ["AMZN"],
+    "fiscal_year": 2023
+  },
+  {
+    "question": "Compare Microsoft's and Amazon's cloud strategies in 2025.",
+    "tickers": ["MSFT", "AMZN"],
+    "fiscal_year": 2025
+  },
+  {
+    "question": "How did Tesla describe its manufacturing strategy in 2022?",
+    "tickers": ["TSLA"],
+    "fiscal_year": 2022
+  },
+  {
+    "question": "What cybersecurity risks did Meta report in 2024?",
+    "tickers": ["META"],
+    "fiscal_year": 2024
+  },
+  {
+    "question": "What challenges did Netflix describe in 2021?",
+    "tickers": ["NFLX"],
+    "fiscal_year": 2021
+  }
+]
